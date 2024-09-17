@@ -1,6 +1,6 @@
-# [Agency Name] - IT Solutions Design Agency
+# KY SOLUTIONS - IT Solutions Design Agency
 
-Welcome to [Agency Name]'s official GitHub repository! We specialize in crafting innovative and scalable IT solutions to meet your business needs. Our expertise spans web and mobile development, cloud computing, system integrations, and more.
+Welcome to KY SOLUTIONS's official GitHub repository! We specialize in crafting innovative and scalable IT solutions to meet your business needs. Our expertise spans web and mobile development, cloud computing, system integrations, and more 🌱.
 
 ## 🚀 Our Services
 - Web and Mobile Application Development
@@ -28,29 +28,18 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 ## 🌐 Connect with Us
 Stay connected and follow us on social media to get the latest updates on our projects and industry insights:
 
-- 🌐 [Official Website](https://your-agency-website.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-agency)
-- 🐦 [Twitter](https://twitter.com/your-agency)
-- 📸 [Instagram](https://instagram.com/your-agency)
-- 🎥 [YouTube](https://youtube.com/your-agency)
+- 🌐 [Official Website](https://ky-solutions.fr)
+- 💼 [LinkedIn](https://www.linkedin.com/company/ky-solutions)
+- 🎥 [YouTube](https://www.youtube.com/@kysolutions3896)
 
 ## 📧 Contact Us
 For inquiries, collaborations, or more information about our services, please contact us at:
 
-**Email**: [info@your-agency.com](mailto:info@your-agency.com)
+📫 **Email**: [contact@ky-solutions.fr](mailto:contact@ky-solutions.fr)
 
 ---
 
-_Designed and developed by [Agency Name], your trusted IT partner._
-
-
-- 👋 Hi, I’m @kysolutions
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+_Designed and developed by ⚡ KY SOLUTIONS, your trusted IT partner._
 
 <!---
 kysolutions/kysolutions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
